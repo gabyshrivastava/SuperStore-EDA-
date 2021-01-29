@@ -3,8 +3,8 @@
 In this task by EDA of dataset weak areas are found where work can be done to make more profit. 
 
 
-Conclusion :
-The weak areas where one can work to make more profit are :
+# Conclusion :
+## The weak areas where one can work to make more profit are :
 
 We should limit sales of furniture and increase that of technology and office suppliers as furniture has very less profit as compared to sales.
 Considering the sub-categories sales of tables should be minimized.
